@@ -1,3 +1,5 @@
+Error trying to compile a translation in Django 1.5. The following settings.
+
 Gettext version:
 gettext (GNU gettext-runtime) 0.18.1
 Copyright (C) 1995-1997, 2000-2007 Free Software Foundation, Inc.
